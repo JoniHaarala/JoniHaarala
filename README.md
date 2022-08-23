@@ -9,7 +9,7 @@ I´ve learned Computer engineering for at list 5 years and actually i been dedic
 * 🌍  I'm based in Salta, Argentina
 * ✉️  You can contact me at [jonatan.haaralaorosco@gmail.com](mailto:jonatan.haaralaorosco@gmail.com)
 * 🚀  I'm currently working on my personal proyects :grinning:
-* 🧠  I'm learning Bases of Machine Learning and MERN web stack bases.
+* 🧠  I'm learning Bases of Data Sciences, Machine Learning and MERN web stack bases.
 
 ### Skills
 
