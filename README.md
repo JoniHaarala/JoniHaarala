@@ -71,4 +71,4 @@ I´ve learned Computer engineering for at list 5 years and actually i been dedic
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/JoniDev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://buymeacoffee.com/Jonidev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
